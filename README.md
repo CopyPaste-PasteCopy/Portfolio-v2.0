@@ -5,6 +5,7 @@ __  /_/ /  __ \_  ___/  __/_  /_ _  __ \_  /__  /_  __ \________ | / /___/ / _  
 _  ____// /_/ /  /   / /_ _  __/ / /_/ /  / _  / / /_/ //_____/_ |/ /_  __/__/ /_/ /
 /_/     \____//_/    \__/ /_/    \____//_/  /_/  \____/       _____/ /____/(_)____/
 ```
+<img width="1536" height="1024" alt="exec-99e2c4bf-7bb6-463c-a128-382cf788d245" src="https://github.com/user-attachments/assets/96fa59bb-8164-41b7-a29f-9a7751b3a441" />
 
 # Portfolio Website Development Process
 
